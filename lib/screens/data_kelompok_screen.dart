@@ -4,10 +4,10 @@ class DataKelompokScreen extends StatelessWidget {
   const DataKelompokScreen({super.key});
 
   final List<Map<String, String>> anggota = const [
+    {'nama': 'Haidarudzaky Ikhsan', 'nim': '123230122'},
+    {'nama': 'Kadek Gary Faldi', 'nim': '123230154'},
+    {'nama': 'Lorem Ipsum', 'nim': '123230'},
     {'nama': 'Danendra Pandya Reswara', 'nim': '123230169'},
-    {'nama': 'Lorem Ipsum', 'nim': '87654321'},
-    {'nama': 'Lorem Ipsum', 'nim': '11223344'},
-    {'nama': 'Lorem Ipsum', 'nim': '44332211'},
   ];
 
   @override
